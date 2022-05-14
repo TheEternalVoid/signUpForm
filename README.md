@@ -1,2 +1,2 @@
 # signUpForm
-Sign up form created with HTML + CSS
+Sign up form created with Bootstrap
